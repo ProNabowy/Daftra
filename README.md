@@ -16,7 +16,7 @@ Implemented capabilities include:
 
 | Resource          | URL              |
 | ----------------- | ---------------- |
-| Live Demo         | `<https://daftra.nabowy.site/>` |
+| Live Demo         | `<https://daftra-two.vercel.app/>` |
 | GitHub Repository | `https://github.com/ProNabowy/Daftra` |
 
 ## 3. Features (Detailed)
