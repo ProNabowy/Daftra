@@ -14,10 +14,10 @@ Implemented capabilities include:
 
 ## 2. Live Demo & Repository Links
 
-| Resource          | URL              |
-| ----------------- | ---------------- |
-| Live Demo         | `<https://daftra-two.vercel.app/>` |
-| GitHub Repository | `https://github.com/ProNabowy/Daftra` |
+| Resource          | URL                                                                     |
+| ----------------- | ----------------------------------------------------------------------- |
+| Live Demo         | `https://daftra-two.vercel.app/` [VISIT] https://daftra-two.vercel.app/ |
+| GitHub Repository | `https://github.com/ProNabowy/Daftra`                                   |
 
 ## 3. Features (Detailed)
 
